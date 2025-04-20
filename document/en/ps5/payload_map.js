@@ -46,9 +46,9 @@ const payload_map = [
         fileName: "kstuff.elf",
         author: "sleirsgoevy, john-tornblom, EchoStretch, buzzer-re, BestPig, LightningMods, zecoxao",
         projectSource: "https://github.com/EchoStretch/kstuff",
-        binarySource: "https://github.com/EchoStretch/kstuff/releases/download/v1.3/kstuff.elf",
-        version: "1.3",
-        supportedFirmwares: ["3.", "4.", "5."],
+        binarySource: "https://github.com/EchoStretch/kstuff/releases/download/v1.4/kstuff.elf",
+        version: "1.4",
+        supportedFirmwares: ["3.", "4.", "5.", "6.", "7."],
         toPort: 9021
     },
     {
@@ -139,7 +139,7 @@ const payload_map = [
         fileName: "ps5debug_dizz.elf",
         author: "Dizz, astrelsky, John Tornblom, SiSTR0, golden, idlesauce",
         projectSource: "https://github.com/idlesauce/ps5debug",
-        binarySource: "https://github.com/idlesauce/ps5debug/releases/download/v0.0.1/ps5debug.elf",
+        binarySource: "https://github.com/idlesauce/ps5debug/releases/download/v0.0.1-r2/ps5debug.elf",
         version: "0.0.1-r2",
         toPort: 9021
     },
